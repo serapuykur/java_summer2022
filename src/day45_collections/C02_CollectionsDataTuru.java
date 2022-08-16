@@ -27,11 +27,11 @@ public class C02_CollectionsDataTuru {
         list.add("Ali");//olmaz
         System.out.println(list);//[5,s,true,Ali]
         list.set(0,list.get(3)+"Can");
-        list.set(2,!(Boolean)list.get(2));
+       // list.set(2,!(Boolean)list.get(2));
 
         // list.set(0,list.get(0)+5);
-        list.set(0,(Integer)list.get(0)+5);
-        System.out.println(list);
+       // list.set(0,(Integer)list.get(0)+5);
+       // System.out.println(list);
 
         System.out.println(list);
 
