@@ -11,7 +11,7 @@ public class C02_MapMathodlari {
        // Map<Integer,String> sinifListmap=Reusablemethods.mapOlustur();
        // Reusablemethods.entryYazdir(sinifListmap);
 
-        sinifListmap.clear("cleardan sonra map:"+sinifListmap);
+       //sinifListmap.clear("cleardan sonra map:"+sinifListmap);
         System.out.println();
     }
 }
